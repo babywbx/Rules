@@ -1,0 +1,7 @@
+# NAME: ApplePodcasts
+# AUTHOR: Babywbx
+# REPO: https://github.com/babywbx/Rules
+DOMAIN,entitlements-edge.itunes.apple.com
+DOMAIN,bookkeeper.itunes.apple.com
+DOMAIN,fpinit.itunes.apple.com
+DOMAIN-SUFFIX,podcasts.apple.com
